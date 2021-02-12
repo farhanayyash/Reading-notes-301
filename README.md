@@ -12,8 +12,8 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Growth</td>
-    <td>12/21/2020</td>
+    <td>Reading01</td>
+    <td>02/12/2020</td>
     <td><a href="https://farhanayyash.github.io/Reading-notes-301/read01">here</a></td>
   </tr>
 </table>
