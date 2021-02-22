@@ -46,6 +46,11 @@
     <td>02/21/2020</td>
     <td><a href="https://farhanayyash.github.io/Reading-notes-301/read07">here</a></td>
   </tr>
+  <tr>
+    <td>Reading08</td>
+    <td>02/22/2020</td>
+    <td><a href="https://farhanayyash.github.io/Reading-notes-301/read08">here</a></td>
+  </tr>
 </table>
 
 
